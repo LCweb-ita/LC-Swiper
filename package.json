@@ -1,0 +1,52 @@
+{
+    "author": "LCweb",
+    "name": "lc-swiper",
+    "version": "1.0.0",
+    "description": "Micro vanilla javascript (ES6) class making swipe events easy!",
+    "keywords": [
+        "javascript",
+        "lightweight",
+        "swipe",
+        "touchswipe",
+        "touch",
+        "vanilla-javascript",
+        "pure-javascript",
+        "radio-buttons",
+        "lc-swiper"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LCweb-ita/LC-Swiper.git"
+    },
+    "files": [
+        "lc-swiper.min.js"
+    ],
+    "dependencies": {},
+    "devDependencies": {},
+    "contributors": [
+        {
+            "name": "LCweb-ita",
+            "url": "https://github.com/LCweb-ita"
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://lcweb.it/lc-swiper-javascript-plugin",
+    "bugs": "https://github.com/LCweb-ita/LC-Swiper/issues",
+    "_extra": {
+        "title": "LC Swiper",
+        "license": {
+            "type": "MIT",
+            "url": "https://github.com/LCweb-ita/LC-Swiper/blob/main/LICENSE"
+        },
+        "links": {
+            "download": "https://github.com/LCweb-ita/LC-Swiper/releases",
+            "docs": "https://github.com/LCweb-ita/LC-Swiper"
+        },
+        "main": [
+            "lc-swiper.min.js"
+        ],
+        "files": [
+            "lc-swiper.min.js"
+        ]
+    }
+}
