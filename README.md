@@ -1,6 +1,6 @@
 # TouchSwipe events made easy, by LCweb
 
-No dependencies ** vanilla javascript class** to easily handle swipe events on page elements.
+No dependencies **vanilla javascript class** to easily handle swipe events on page elements.
 
  - gives you the swipe delta in each direction
  - supports multiple instances per element
