@@ -10,9 +10,6 @@ What do you want more from 2KB of code? :P<br/>
 **NB:** obviously it works only for touch devices.
 
 
-For live demos check: https://lcweb.it/lc-swiper-javascript-plugin
-
-
 ## Installation & Usage
 
 1. include lc-swiper.min.js
